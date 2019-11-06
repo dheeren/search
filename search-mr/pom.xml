@@ -23,12 +23,12 @@
   <parent>
     <groupId>com.cloudera.search</groupId>
     <artifactId>search-parent</artifactId>
-    <version>1.0.0-cdh6.3.1</version>
+    <version>1.0.0-cdh6.3.2</version>
   </parent>
 
   <groupId>com.cloudera.search</groupId>
   <artifactId>search-mr</artifactId>
-  <version>1.0.0-cdh6.3.1</version>
+  <version>1.0.0-cdh6.3.2</version>
   <name>Search Solr MapReduce Indexer</name>
 
   <properties>
