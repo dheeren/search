@@ -16,12 +16,12 @@
   <name>Search Crunch</name>
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.cloudera.search</groupId>
-  <version>1.0.0-cdh6.3.x-SNAPSHOT</version>
+  <version>1.0.0-cdh6.3.3</version>
 
   <parent>
     <groupId>com.cloudera.search</groupId>
     <artifactId>search-parent</artifactId>
-    <version>1.0.0-cdh6.3.x-SNAPSHOT</version>
+    <version>1.0.0-cdh6.3.3</version>
   </parent>
 
   <properties>
